@@ -1,0 +1,9 @@
+﻿  Team_2_FP.cpp
+c:\users\nicho\onedrive\documents\2017-2018\semester 2\intro to computer programming\finalproject\finalproject\team_2_fp.cpp(97): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\nicho\onedrive\documents\2017-2018\semester 2\intro to computer programming\finalproject\finalproject\team_2_fp.cpp(98): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\nicho\onedrive\documents\2017-2018\semester 2\intro to computer programming\finalproject\finalproject\team_2_fp.cpp(99): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\nicho\onedrive\documents\2017-2018\semester 2\intro to computer programming\finalproject\finalproject\team_2_fp.cpp(100): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\nicho\onedrive\documents\2017-2018\semester 2\intro to computer programming\finalproject\finalproject\team_2_fp.cpp(101): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\nicho\onedrive\documents\2017-2018\semester 2\intro to computer programming\finalproject\finalproject\team_2_fp.cpp(102): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\nicho\onedrive\documents\2017-2018\semester 2\intro to computer programming\finalproject\finalproject\team_2_fp.cpp(103): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  FinalProject.vcxproj -> C:\Users\nicho\OneDrive\Documents\2017-2018\Semester 2\Intro To Computer Programming\FinalProject\Debug\FinalProject.exe

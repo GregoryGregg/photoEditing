@@ -1,0 +1,14 @@
+﻿  Photo.cpp
+c:\users\nicholas gregg\skydrive\documents\2017-2018\semester 2\intro to computer programming\finalproject\finalproject\photo.cpp(90): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\nicholas gregg\skydrive\documents\2017-2018\semester 2\intro to computer programming\finalproject\finalproject\photo.cpp(91): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\nicholas gregg\skydrive\documents\2017-2018\semester 2\intro to computer programming\finalproject\finalproject\photo.cpp(92): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\nicholas gregg\skydrive\documents\2017-2018\semester 2\intro to computer programming\finalproject\finalproject\photo.cpp(93): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\nicholas gregg\skydrive\documents\2017-2018\semester 2\intro to computer programming\finalproject\finalproject\photo.cpp(94): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\nicholas gregg\skydrive\documents\2017-2018\semester 2\intro to computer programming\finalproject\finalproject\photo.cpp(95): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\nicholas gregg\skydrive\documents\2017-2018\semester 2\intro to computer programming\finalproject\finalproject\photo.cpp(96): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\nicholas gregg\skydrive\documents\2017-2018\semester 2\intro to computer programming\finalproject\finalproject\photo.cpp(172): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\nicholas gregg\skydrive\documents\2017-2018\semester 2\intro to computer programming\finalproject\finalproject\photo.cpp(172): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\nicholas gregg\skydrive\documents\2017-2018\semester 2\intro to computer programming\finalproject\finalproject\photo.cpp(203): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Team_2_FP.cpp
+  Generating Code...
+  FinalProject.vcxproj -> C:\Users\Nicholas Gregg\SkyDrive\Documents\2017-2018\Semester 2\Intro To Computer Programming\FinalProject\x64\Debug\FinalProject.exe
